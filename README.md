@@ -15,7 +15,9 @@ You can also install it by following these steps -
 7. The extension should be installed now
 
 
-Spoonie is disabled by default. To enable/disable it, just click the icon. Once enabled, Spoonie stays enabled until you disable it. When you disable it, it reloads the current page to restore its original content.
+Spoonie is disabled by default. To enable/disable it, just click the icon. Once enabled, Spoonie stays enabled until you disable it. 
+
+After you've enabled it (icon turns green), every page you visit will be spoonerized. When you disable it (icon turns gray), it reloads the current page to restore its original content.
 
 ## Examples
 
