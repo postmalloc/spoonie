@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Spoonie",
     "version": "1.0",
-    "description": "Spoonie makes the internet silly using spoonerisms! Spoonerisms are modifications applied to sentences to (hopefully) make them funny.",
+    "description": "Spoonie makes the internet silly using spoonerisms!",
     "background": {
         "scripts": [
             "scripts/background.js"
