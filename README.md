@@ -4,7 +4,8 @@
 Spoonie is a Chrome extension with one mission - make the internet silly. When enabled, Spoonie constructs [_spoonerisms_](https://en.wikipedia.org/wiki/Spoonerism) out of text on pages you visit. It then replaces the original text with the spoonerized text. It should work on most sites, and is often quite funny!
 
 ## Usage
-You can get it from the Chrome Webstore (Still under review).  
+You can get it from the [Chrome Webstore](https://chrome.google.com/webstore/detail/spoonie/joocbpialfjanpabaijgdibdgcbedldk?hl=en).  
+
 You can also install it by following these steps - 
 1. Download the repository as a zip file
 2. Extract the zip
